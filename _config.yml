@@ -9,8 +9,9 @@ name: Deyuan Yang
 description: Summer 2023 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/deyuanyang02/deyuanyang02.github.io/blob/master/images/Doreen%20(2).jpg
-#https://deyuanyang02.github.io/images/Doreen(2).jpg
+avatar: https://deyuanyang02.github.io/images/Doreen(2).jpg
+#https://github.com/deyuanyang02/deyuanyang02.github.io/blob/master/images/Doreen%20(2).jpg
+
 #
 # Flags below are optional
 #
@@ -25,7 +26,7 @@ footer-links:
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:http://deyuanyang02.github.io
+url: http://deyuanyang02.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
