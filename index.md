@@ -8,7 +8,9 @@ title: Summer 2023 DREU Project Site
 
 ## About Me
 
-Hello! My name is Deyuna Yang and I go by Doreen. I'm a Junior at DePauw University, double majoring in Computer Science and Mathematics. I love reading, writing and doing research. I plan to be a Phd in the future. I'm really excited to participate DREU program and working on the "WhoFundedIt" Web App development. 
+Hello! My name is Deyuna Yang and I go by Doreen. I'm a Junior at DePauw University, double majoring in Computer Science and Mathematics. I love reading, writing and doing research. I plan to graduate in 2024. My email address is: doreenyang02@gmail.com.  I'm really excited to participate DREU program and working on the Web App development. 
+
+
 
 ## About My Mentor
 
